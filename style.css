@@ -1,0 +1,12 @@
+body{font-family:Arial,sans-serif;margin:0;background:#f5f5f5;color:#222;}
+.hero img{width:100%;display:block;}
+.container{max-width:1100px;margin:auto;padding:20px;background:white;}
+h1,h2{color:#1f3d5a;}
+table{width:100%;border-collapse:collapse;}
+th,td{border:1px solid #ccc;padding:8px;vertical-align:top;}
+th{background:#e8eef5;}
+.bio{display:flex;gap:20px;align-items:flex-start;}
+.bio img{width:127px;height:auto;}
+footer{margin-top:30px;text-align:center;color:#666;}
+a{text-decoration:none;}
+a:hover{text-decoration:underline;}
